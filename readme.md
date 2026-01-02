@@ -1,6 +1,6 @@
-<h1>JS backend</h1>
+<h1>JS backend hello</h1>
 
-This is a model that is intended to function as a complete YouTube-like backend.
+This is a model that is intend to function as a complete YouTube-like backend.
 
 
 -[model](https://app.eraser.io/workspace/YtPqZ1VogxGy1jzIDkzj)
