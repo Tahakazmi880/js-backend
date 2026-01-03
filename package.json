@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "backend on js",
   "license": "ISC",
-  "author": "",
+  "author": "Taha Kazmi",
   "type": "module",
   "main": "index.js",
   "scripts": {
